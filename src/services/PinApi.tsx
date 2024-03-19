@@ -3,7 +3,7 @@ import PinData from '../models/PinData';
 /**
  * 自身が作成したバックエンドAPIのURLを""の中に代入
  */
-const url = '';
+const url = 'https://assampleapp2.azurewebsites.net/';
 
 /**
  * DBに格納された全ピンデータを取得する関数
